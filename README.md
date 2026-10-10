@@ -27,7 +27,3 @@ Full instructions are in `INSTALL-<arch>.md` inside each package.
 ## Security
 
 The server has **no authentication**. Publish the port to a private network only.
-
-## Status
-
-Release candidate. Not for production use.
