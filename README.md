@@ -2,11 +2,11 @@
 
 ETLFunnel execution engine. The Docker image runs `dfshell`, a server that takes JSON requests and sends JSON events over a WebSocket.
 
-**Latest pre-release: [v1.2.1-rc2](../../releases/tag/v1.2.1-rc2)** — everything (images, docs, examples, checksums, install guides) is attached to that one release.
+**Latest release: [v1.2.1](../../releases/tag/v1.2.1)** — everything (images, docs, examples, checksums, install guides) is attached to that one release.
 
 ## Download
 
-- **Everything:** `etlfunnel-execution-v1.2.1-rc2.zip` (both architectures).
+- **Everything:** `etlfunnel-execution-v1.2.1.zip` (both architectures).
 - **One architecture only:** `etlfunnel-execution-linux-amd64.zip` (Intel/AMD) or `etlfunnel-execution-linux-arm64.zip` (Apple silicon, Graviton), or the individual files listed on the release.
 - `SHA256SUMS.txt` has checksums for every file.
 
